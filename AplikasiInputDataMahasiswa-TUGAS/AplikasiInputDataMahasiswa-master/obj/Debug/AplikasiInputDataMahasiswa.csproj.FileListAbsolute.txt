@@ -1,0 +1,11 @@
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\bin\Debug\AplikasiInputDataMahasiswa.exe.config
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\bin\Debug\AplikasiInputDataMahasiswa.exe
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\bin\Debug\AplikasiInputDataMahasiswa.pdb
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\obj\Debug\AplikasiInputDataMahasiswa.csproj.AssemblyReference.cache
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\obj\Debug\AplikasiInputDataMahasiswa.csproj.SuggestedBindingRedirects.cache
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\obj\Debug\AplikasiInputDataMahasiswa.Form1.resources
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\obj\Debug\AplikasiInputDataMahasiswa.Properties.Resources.resources
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\obj\Debug\AplikasiInputDataMahasiswa.csproj.GenerateResource.cache
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\obj\Debug\AplikasiInputDataMahasiswa.csproj.CoreCompileInputs.cache
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\obj\Debug\AplikasiInputDataMahasiswa.exe
+C:\Users\fx506\Downloads\Compressed\AplikasiInputDataMahasiswa-master\AplikasiInputDataMahasiswa-master\obj\Debug\AplikasiInputDataMahasiswa.pdb
